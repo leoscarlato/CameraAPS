@@ -54,3 +54,6 @@ M = T2 \cdot R \cdot T
 $$
 
 Essa matriz foi utilizada para realizar a rotação da imagem em torno do ponto central do quadro de exibição.
+
+
+![](girando.gif)
