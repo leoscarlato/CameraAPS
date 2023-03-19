@@ -59,7 +59,7 @@ Essa matriz foi utilizada para realizar a rotação da imagem em torno do ponto 
 
 Quando o código é executado, se abrirá uma nova janela que mostrará a câmera do dispositivo rotacionando constantemente, assim como mostra o gif abaixo:
 
-![](girando.gif)
+![](girando2.gif)
 
 
 # Instruções para execução
