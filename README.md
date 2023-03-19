@@ -70,5 +70,5 @@ Quando o código é executado, se abrirá uma nova janela que mostrará a câmer
 
 # Autores
 
-**Leonardo Scarlato** - [GitHub](@leoscarlato)<br>
-**Tomás Alessi** - [GitHub](@alessitomas)
+- [@leoscarlato](https://github.com/leoscarlato)
+- [@alessitomas](https://github.com/alessitomas)
