@@ -64,8 +64,8 @@ Quando o código é executado, se abrirá uma nova janela que mostrará a câmer
 
 # Instruções para execução
 
-**1.** - Clone o repositório em sua máquina
-**2.** - Instale as dependências do projeto (numpy, opencv-python)
+**1.** - Clone o repositório em sua máquina <br>
+**2.** - Instale as dependências do projeto (numpy, opencv-python) <br>
 **3.** - Execute o arquivo demo.py
 
 # Autores
