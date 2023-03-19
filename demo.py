@@ -30,7 +30,7 @@ def main():
         quadro = cv.resize(quadro, (largura, altura))
 
         # Calcula as coordenadas do centro da imagem
-        cx, cy = int(largura / 2), int(altura / 2)
+        cy, cx = int(largura / 2), int(altura / 2)
         
         # Define a matriz de translação que leva o centro da imagem para a origem
         M_translacao = np.array([[1, 0, -cx], [0, 1, -cy], [0, 0, 1]])  # leva para esquerda e para cima
