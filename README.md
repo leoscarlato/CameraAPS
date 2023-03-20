@@ -26,8 +26,8 @@ Essa foi a matriz que utilizamos para realizar a rotação da imagem. A cada ite
 $$
 T =
 \begin{bmatrix}
-1 & 0 & \frac{- imagem_y}{2} \\
-0 & 1 & \frac{- imagem_x}{2} \\
+1 & 0 & \frac{- imagem_x}{2} \\
+0 & 1 & \frac{- imagem_y}{2} \\
 0 & 0 & 1
 \end{bmatrix}
 $$
@@ -39,8 +39,8 @@ Essa matriz foi utilizada para transladar a imagem para o centro do quadro de ex
 $$
 T2 = 
 \begin{bmatrix}
-1 & 0 & \frac{imagem_y}{2} \\
-0 & 1 & \frac{imagem_x}{2} \\
+1 & 0 & \frac{imagem_x}{2} \\
+0 & 1 & \frac{imagem_y}{2} \\
 0 & 0 & 1
 \end{bmatrix}
 $$
